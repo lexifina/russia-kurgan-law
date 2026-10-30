@@ -1,0 +1,11 @@
+{
+  "path": "ru-kgn",
+  "code": "RU-KGN",
+  "name": "Kurgan Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kurgan-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
