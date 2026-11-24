@@ -1,0 +1,66 @@
+{
+ "generated": "2026-11-24T14:08:39Z",
+ "latest": {
+  "pravo-kurgan|russia/kurgan/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1386,
+    "current": 1386,
+    "gone": 0,
+    "held": 1386,
+    "newest_in_repo": "2026-10-29",
+    "pending": 0,
+    "repo": 1386,
+    "source_in_scope": 1386
+   },
+   "check_id": "ru-pravo-kurgan-20261124T140736Z",
+   "commits": null,
+   "corpus": "russia/kurgan/acts",
+   "error": null,
+   "finished": "2026-11-24T14:08:38Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region45: 1386 law-type documents listed (every page read); 1386 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1386 law-type documents in block region45; newest published 2026-10-29",
+   "source": "pravo-kurgan",
+   "started": "2026-11-24T14:07:36Z",
+   "unexplained": 0,
+   "update": {
+    "parts": []
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 218,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
