@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:08:39Z",
+ "generated": "2026-11-25T07:00:30Z",
  "latest": {
   "pravo-kurgan|russia/kurgan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1386,
     "source_in_scope": 1386
    },
-   "check_id": "ru-pravo-kurgan-20261124T140736Z",
+   "check_id": "ru-pravo-kurgan-20261125T061100Z",
    "commits": null,
    "corpus": "russia/kurgan/acts",
    "error": null,
-   "finished": "2026-11-24T14:08:38Z",
+   "finished": "2026-11-25T06:11:40Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region45: 1386 law-type documents listed (every page read); 1386 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1386 law-type documents in block region45; newest published 2026-10-29",
    "source": "pravo-kurgan",
-   "started": "2026-11-24T14:07:36Z",
+   "started": "2026-11-25T06:11:00Z",
    "unexplained": 0,
    "update": {
     "parts": []
