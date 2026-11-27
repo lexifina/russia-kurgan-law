@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:17:31Z",
+ "generated": "2026-11-27T06:09:53Z",
  "latest": {
   "pravo-kurgan|russia/kurgan/acts": {
    "attempt": 1,
@@ -12,31 +12,31 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1387,
-    "current": 1386,
+    "checked": 1388,
+    "current": 1387,
     "gone": 0,
-    "held": 1386,
-    "newest_in_repo": "2026-10-29",
+    "held": 1387,
+    "newest_in_repo": "2026-11-25",
     "pending": 1,
-    "repo": 1386,
-    "source_in_scope": 1387
+    "repo": 1387,
+    "source_in_scope": 1388
    },
-   "check_id": "ru-pravo-kurgan-20261126T053806Z",
+   "check_id": "ru-pravo-kurgan-20261127T053255Z",
    "commits": {
     "count": 2,
-    "from": "118c819a212ee1e2c655627df4803a64fe19bc10",
-    "to": "04df8fde6c114b8a717b70c86bdc4471a1fbd6b2"
+    "from": "8b4fd95421d408b6c6a7b59232952ae28e2ccaf5",
+    "to": "2382ceeb02fcb9899d57f2b8a8ad90d3c4cd74ae"
    },
    "corpus": "russia/kurgan/acts",
    "error": null,
-   "finished": "2026-11-26T05:39:00Z",
+   "finished": "2026-11-27T05:33:42Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region45: 1387 law-type documents listed (every page read); 1386 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "note": "publication.pravo.gov.ru, block region45: 1388 law-type documents listed (every page read); 1387 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
    "outcome": "changed",
    "published": {
     "added": [
-     "4500202611250004"
+     "4500202611260001"
     ],
     "changed": [],
     "removed": []
@@ -46,14 +46,14 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "4500202611250004"
+     "4500202611260001"
     ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1387 law-type documents in block region45; newest published 2026-11-25",
+   "snapshot": "1388 law-type documents in block region45; newest published 2026-11-26",
    "source": "pravo-kurgan",
-   "started": "2026-11-26T05:38:06Z",
+   "started": "2026-11-27T05:32:55Z",
    "unexplained": 0,
    "update": {
     "append": {
@@ -65,7 +65,7 @@
      "new_acts": []
     },
     "parts": [
-     "95-watch-20261126-001.json"
+     "95-watch-20261127-001.json"
     ]
    },
    "verify": {
@@ -75,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 12,
-    "versions_checked": 219,
+    "versions_checked": 220,
     "versions_differ": 0
    }
   }
