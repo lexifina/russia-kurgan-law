@@ -1,6 +1,6 @@
 # Kurgan Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-03-06 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region45>
+Законы 2026 · 12 versions, from 2026-03-06 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region45>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -64,6 +64,9 @@
 | Закон № 61 | [61.md](61.md) | 1 | 2026-10-29 |
 | Закон № 62 | [62.md](62.md) | 1 | 2026-11-26 |
 | Закон № 63 | [63.md](63.md) | 1 | 2026-11-25 |
+| Закон № 64 | [64.md](64.md) | 1 | 2026-11-27 |
+| Закон № 65 | [65.md](65.md) | 1 | 2026-11-27 |
+| Закон № 66 | [66.md](66.md) | 1 | 2026-11-27 |
 | Закон № 7 | [7.md](7.md) | 1 | 2026-03-27 |
 | Закон № 8 | [8.md](8.md) | 1 | 2026-03-27 |
 | Закон № 9 | [9.md](9.md) | 1 | 2026-03-27 |
